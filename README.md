@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @RahulRocky0019
-- 👀 I’m interested in Gaming, Coding and Video editing
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on creating new games
+- 👋 Hi, I’m Mullapudi Rahul
+- 👀 I’m interested in Coding and Gaming
+- 🌱 I’m currently learning Go and Scala
+- 💪 My skills are Python, MySQL, C++, Java
 - 📫 Ping me at rahul.rocky0019@gmail.com
-
