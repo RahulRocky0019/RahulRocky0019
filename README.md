@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mullapudi Rahul
 - 👀 I’m interested in Coding and Gaming
 - 🌱 I’m currently learning Go and Scala
-- 💪 My skills are Python, MySQL, C++, Java
+- 💪 My skills are Python, SQL, C++, Java
 - 📫 Ping me at rahul.rocky0019@gmail.com
